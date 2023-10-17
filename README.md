@@ -1,6 +1,8 @@
 ﻿# Menor Distancia Array
 
 Este programa calcula a menor distância entre dois arrays de números inteiros.
+Ele foi escrito como uma possível implementação do "Desafio Quero Ser" da IntelliTrader:
+https://github.com/intelitrader/quero-ser/tree/master
 
 ## Como usar
 
