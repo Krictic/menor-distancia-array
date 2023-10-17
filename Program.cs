@@ -20,7 +20,7 @@
 
                 if (minArray2 != int.MaxValue)
                 {
-                    Console.WriteLine(minArray2 - maxArray1);
+                    Console.WriteLine($"Menor distancia: {minArray2 - maxArray1}");
                 }
                 else
                 {
